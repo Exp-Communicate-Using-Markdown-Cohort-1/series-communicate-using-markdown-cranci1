@@ -5,3 +5,7 @@
 ```
 git clone https://github.com/cranci1/Mc-PlayTime-Mac
 ```
+
+- [x] Lunar
+- [x] cranci
+- [ ] enriccio
